@@ -1,0 +1,1 @@
+AWS is cloud provider to the client
